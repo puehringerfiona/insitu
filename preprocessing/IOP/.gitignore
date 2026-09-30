@@ -1,0 +1,14 @@
+.codex_mpl/
+.codex_pydeps/
+.matplotlib/
+.matplotlib_cache/
+.build_deps/
+build/
+dist/
+*.spec
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+test_output_*/
+notebook_output_*/
